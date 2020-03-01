@@ -29,11 +29,14 @@ class ApiPostController extends \crocodicstudio\crudbooster\controllers\ApiContr
     {
         //This method is to customize the sql query
         $request = request();
-        if (!empty($request->title)) {
-            $query->where('title', 'like', '%' . $request->title . '%');
+
+        if (!empty($request->search)) {
+            $query->where('title', 'like', '%' . $request->search . '%')->orWhere('content', 'like', '%' . $request->search . '%');
         }
 
-        return $query;
+        header('Content-Type: application/json');
+        echo $query->simplePaginate(10)->toJson();
+        die();
     }
 
     public function hook_after($postdata, &$result)

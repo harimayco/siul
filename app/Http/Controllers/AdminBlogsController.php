@@ -38,14 +38,14 @@ class AdminBlogsController extends \crocodicstudio\crudbooster\controllers\CBCon
         $this->col[] = ["label" => "ID", "name" => "id"];
         $this->col[] = ["label" => "Title", "name" => "title"];
         $this->col[] = ["label" => "Image", "name" => "image", "image" => true];
-        $this->col[] = ["label" => "Content", "name" => "content"];
+        //$this->col[] = ["label" => "Content", "name" => "content"];
         # END COLUMNS DO NOT REMOVE THIS LINE
 
         # START FORM DO NOT REMOVE THIS LINE
         $this->form = [];
         $this->form[] = ['label' => 'Title', 'name' => 'title', 'type' => 'text', 'validation' => 'required|string|min:3|max:70', 'width' => 'col-sm-10', 'placeholder' => 'You can only enter the letter only'];
         $this->form[] = ['label' => 'Image', 'name' => 'image', 'type' => 'upload', 'validation' => '', 'width' => 'col-sm-10', 'help' => 'File types support : JPG, JPEG, PNG, GIF, BMP'];
-        $this->form[] = ['label' => 'Content', 'name' => 'content', 'type' => 'wysiwyg', 'validation' => 'required|string|min:5|max:5000', 'width' => 'col-sm-10'];
+        $this->form[] = ['label' => 'Content', 'name' => 'content', 'type' => 'wysiwyg', 'validation' => 'required', 'width' => 'col-sm-10'];
         # END FORM DO NOT REMOVE THIS LINE
 
         # OLD START FORM
