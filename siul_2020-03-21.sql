@@ -7,7 +7,7 @@
 #
 # Host: 127.0.0.1 (MySQL 5.5.5-10.4.6-MariaDB)
 # Database: siul
-# Generation Time: 2020-03-01 21:09:59 +0000
+# Generation Time: 2020-03-21 13:57:27 +0000
 # ************************************************************
 
 
@@ -208,7 +208,16 @@ VALUES
 	(9,'127.0.0.1','Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36','http://localhost:8080/admin/blogs/edit-save/2','Update data Helm at Post','<table class=\"table table-striped\"><thead><tr><th>Key</th><th>Old Value</th><th>New Value</th></thead><tbody><tr><td>content</td><td><p>usfai hfiuaihgiuasigsauighuiah giua</p></td><td><h1>Aliena dixit in physicis nec ea ipsa, quae tibi probarentur;</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Honesta oratio, Socratica, Platonis etiam. Universa enim illorum ratione cum tota vestra confligendum puto. <b>Duo Reges: constructio interrete.</b> <i>Quis hoc dicit?</i> Sine ea igitur iucunde negat posse se vivere? Sin aliud quid voles, postea. Quae iam oratio non a philosopho aliquo, sed a censore opprimenda est. Animum autem reliquis rebus ita perfecit, ut corpus; </p><p>At iam decimum annum in spelunca iacet. <b>Quid de Platone aut de Democrito loquar?</b> Hanc quoque iucunditatem, si vis, transfer in animum; Videamus animi partes, quarum est conspectus illustrior; <a href=\"http://loripsum.net/\" target=\"_blank\">Oratio me istius philosophi non offendit;</a> Quamquam non negatis nos intellegere quid sit voluptas, sed quid ille dicat. </p><dl>\r\n	<dt><dfn>Nihilo magis.</dfn></dt>\r\n	<dd>Ex ea difficultate illae fallaciloquae, ut ait Accius, malitiae natae sunt.</dd>\r\n	<dt><dfn>Nihilo magis.</dfn></dt>\r\n	<dd>Sed ad rem redeamus;</dd>\r\n	<dt><dfn>Proclivi currit oratio.</dfn></dt>\r\n	<dd>Similiter sensus, cum accessit ad naturam, tuetur illam quidem, sed etiam se tuetur;</dd>\r\n</dl><h5>In quo etsi est magnus, tamen nova pleraque et perpauca de moribus.</h5><p>Earum etiam rerum, quas terra gignit, educatio quaedam et perfectio est non dissimilis animantium. <i>Immo videri fortasse.</i> Dicet pro me ipsa virtus nec dubitabit isti vestro beato M. Tubulum fuisse, qua illum, cuius is condemnatus est rogatione, P. Sed et illum, quem nominavi, et ceteros sophistas, ut e Platone intellegi potest, lusos videmus a Socrate. <b>Cyrenaici quidem non recusant;</b> Sed fac ista esse non inportuna; </p><h3>Traditur, inquit, ab Epicuro ratio neglegendi doloris.</h3><p>Iam contemni non poteris. Hoc non est positum in nostra actione. Num igitur utiliorem tibi hunc Triarium putas esse posse, quam si tua sint Puteolis granaria? <a href=\"http://loripsum.net/\" target=\"_blank\">Sed nimis multa.</a> <a href=\"http://loripsum.net/\" target=\"_blank\">De quibus cupio scire quid sentias.</a> <i>Non pugnem cum homine, cur tantum habeat in natura boni;</i> <i>Mihi, inquam, qui te id ipsum rogavi?</i> Eaedem enim utilitates poterunt eas labefactare atque pervertere. Quid est, quod ab ea absolvi et perfici debeat? Mihi enim satis est, ipsis non satis. Aliter enim nosmet ipsos nosse non possumus. Nec vero alia sunt quaerenda contra Carneadeam illam sententiam. Sit enim idem caecus, debilis. </p><h4>Et quod est munus, quod opus sapientiae?</h4><p>Piso, familiaris noster, et alia multa et hoc loco Stoicos irridebat: Quid enim? Ergo, si semel tristior effectus est, hilara vita amissa est? Atqui eorum nihil est eius generis, ut sit in fine atque extrerno bonorum. Tu autem inter haec tantam multitudinem hominum interiectam non vides nec laetantium nec dolentium? Hoc sic expositum dissimile est superiori. <i>Quid adiuvas?</i> <b>Nemo igitur esse beatus potest.</b> Qua igitur re ab deo vincitur, si aeternitate non vincitur? Utinam quidem dicerent alium alio beatiorem! Iam ruinas videres. </p><h6>Quamquam id quidem licebit iis existimare, qui legerint.</h6><p><i>Ut optime, secundum naturam affectum esse possit.</i> Ut nemo dubitet, eorum omnia officia quo spectare, quid sequi, quid fugere debeant? <i>At, illa, ut vobis placet, partem quandam tuetur, reliquam deserit.</i> Quae iam oratio non a philosopho aliquo, sed a censore opprimenda est. <i>Certe non potest.</i> Scio enim esse quosdam, qui quavis lingua philosophari possint; Venit enim mihi Platonis in mentem, quem accepimus primum hic disputare solitum; Quantam rem agas, ut Circeis qui habitet totum hunc mundum suum municipium esse existimet? </p><blockquote cite=\"http://loripsum.net\">\r\n	Quae diligentissime contra Aristonem dicuntur a Chryippo.\r\n</blockquote><p>Quamquam id quidem licebit iis existimare, qui legerint. Hoc dictum in una re latissime patet, ut in omnibus factis re, non teste moveamur. <i>Expectoque quid ad id, quod quaerebam, respondeas.</i> <a href=\"http://loripsum.net/\" target=\"_blank\">Efficiens dici potest.</a> Non quaero, quid dicat, sed quid convenienter possit rationi et sententiae suae dicere. Recte, inquit, intellegis. </p><ul>\r\n	<li>Nunc vero a primo quidem mirabiliter occulta natura est nec perspici nec cognosci potest.</li>\r\n	<li>Itaque ad tempus ad Pisonem omnes.</li>\r\n</ul><ol>\r\n	<li>Quod cum accidisset ut alter alterum necopinato videremus, surrexit statim.</li>\r\n	<li>Septem autem illi non suo, sed populorum suffragio omnium nominati sunt.</li>\r\n	<li>Illud quaero, quid ei, qui in voluptate summum bonum ponat, consentaneum sit dicere.</li>\r\n	<li>Sed quanta sit alias, nunc tantum possitne esse tanta.</li>\r\n	<li>Equidem soleo etiam quod uno Graeci, si aliter non possum, idem pluribus verbis exponere.</li>\r\n	<li>In quibus doctissimi illi veteres inesse quiddam caeleste et divinum putaverunt.</li>\r\n</ol><h2>Habes, inquam, Cato, formam eorum, de quibus loquor, philosophorum.</h2><p>Qui autem diffidet perpetuitati bonorum suorum, timeat necesse est, ne aliquando amissis illis sit miser. Sed ad haec, nisi molestum est, habeo quae velim. Paria sunt igitur. Quod si ita se habeat, non possit beatam praestare vitam sapientia. <a href=\"http://loripsum.net/\" target=\"_blank\">Age, inquies, ista parva sunt.</a> </p><p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n</p><pre>Habent enim et bene longam et satis litigiosam\r\ndisputationem.\r\n\r\nNum igitur utiliorem tibi hunc Triarium putas esse posse,\r\nquam si tua sint Puteolis granaria?\r\n</pre></td></tr></tbody></table>',1,'2020-03-01 19:34:31',NULL),
 	(10,'127.0.0.1','Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36','http://localhost:8080/admin/blogs/edit-save/1','Update data Hak Pejalan kaki at Post','<table class=\"table table-striped\"><thead><tr><th>Key</th><th>Old Value</th><th>New Value</th></thead><tbody><tr><td>content</td><td><p>dhasuih uifhaiuhf dhasuih uifhaiuhf <b>uiahighiahguih</b><br></p></td><td><h1>Nam prius a se poterit quisque discedere quam appetitum earum rerum, quae sibi conducant, amittere.</h1><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Semper enim ex eo, quod maximas partes continet latissimeque funditur, tota res appellatur. Scripta sane et multa et polita, sed nescio quo pacto auctoritatem oratio non habet. Nam memini etiam quae nolo, oblivisci non possum quae volo. Ut nemo dubitet, eorum omnia officia quo spectare, quid sequi, quid fugere debeant? </p><blockquote cite=\"http://loripsum.net\">\r\n	Quos quidem dies quem ad modum agatis et in quantam hominum facetorum urbanitatem incurratis, non diconihil opus est litibus-;\r\n</blockquote><ol>\r\n	<li>Quid ei reliquisti, nisi te, quoquo modo loqueretur, intellegere, quid diceret?</li>\r\n	<li>Ut non sine causa ex iis memoriae ducta sit disciplina.</li>\r\n	<li>Tum ille: Tu autem cum ipse tantum librorum habeas, quos hic tandem requiris?</li>\r\n</ol><ul>\r\n	<li>Ita multo sanguine profuso in laetitia et in victoria est mortuus.</li>\r\n	<li>Perturbationes autem nulla naturae vi commoventur, omniaque ea sunt opiniones ac iudicia levitatis.</li>\r\n	<li>Fortes viri voluptatumne calculis subductis proelium ineunt, sanguinem pro patria profundunt, an quodam animi ardore atque impetu concitati?</li>\r\n</ul><h2>Nunc vides, quid faciat.</h2><p>Quem Tiberina descensio festo illo die tanto gaudio affecit, quanto L. <a href=\"http://loripsum.net/\" target=\"_blank\">Recte, inquit, intellegis.</a> Negat esse eam, inquit, propter se expetendam. Istam voluptatem perpetuam quis potest praestare sapienti? Quam si explicavisset, non tam haesitaret. Itaque hic ipse iam pridem est reiectus; </p><p>Non modo carum sibi quemque, verum etiam vehementer carum esse? <mark>Quippe: habes enim a rhetoribus;</mark> Sed fortuna fortis; Nam memini etiam quae nolo, oblivisci non possum quae volo. Quia, si mala sunt, is, qui erit in iis, beatus non erit. Quam illa ardentis amores excitaret sui! Cur tandem? Alterum significari idem, ut si diceretur, officia media omnia aut pleraque servantem vivere. <code>Scrupulum, inquam, abeunti;</code> </p><p><i>Est, ut dicis, inquam.</i> <b>Istam voluptatem, inquit, Epicurus ignorat?</b> </p><p>At coluit ipse amicitias. Post enim Chrysippum eum non sane est disputatum. Quid igitur dubitamus in tota eius natura quaerere quid sit effectum? Ab hoc autem quaedam non melius quam veteres, quaedam omnino relicta. Utrum igitur tibi litteram videor an totas paginas commovere? Quodsi ipsam honestatem undique pertectam atque absolutam. Ergo hoc quidem apparet, nos ad agendum esse natos. Nunc agendum est subtilius. Itaque a sapientia praecipitur se ipsam, si usus sit, sapiens ut relinquat. Graecum enim hunc versum nostis omnes-: Suavis laborum est praeteritorum memoria. </p><p>Licet hic rursus ea commemores, quae optimis verbis ab Epicuro de laude amicitiae dicta sunt. <code>Quaerimus enim finem bonorum.</code> Rhetorice igitur, inquam, nos mavis quam dialectice disputare? Si qua in iis corrigere voluit, deteriora fecit. <b>Istam voluptatem, inquit, Epicurus ignorat?</b> Res enim concurrent contrariae. </p><dl>\r\n	<dt><dfn>Certe non potest.</dfn></dt>\r\n	<dd>Hic quoque suus est de summoque bono dissentiens dici vere Peripateticus non potest.</dd>\r\n	<dt><dfn>Quonam modo?</dfn></dt>\r\n	<dd>Fatebuntur Stoici haec omnia dicta esse praeclare, neque eam causam Zenoni desciscendi fuisse.</dd>\r\n	<dt><dfn>Sint ista Graecorum;</dfn></dt>\r\n	<dd>Quis non odit sordidos, vanos, leves, futtiles?</dd>\r\n	<dt><dfn>Quo modo?</dfn></dt>\r\n	<dd>Gracchum patrem non beatiorem fuisse quam fillum, cum alter stabilire rem publicam studuerit, alter evertere.</dd>\r\n	<dt><dfn>Restatis igitur vos;</dfn></dt>\r\n	<dd>At quanta conantur! Mundum hunc omnem oppidum esse nostrum! Incendi igitur eos, qui audiunt, vides.</dd>\r\n	<dt><dfn>Certe non potest.</dfn></dt>\r\n	<dd>Quia dolori non voluptas contraria est, sed doloris privatio.</dd>\r\n</dl><p>Quo plebiscito decreta a senatu est consuli quaestio Cn. <i>Duo Reges: constructio interrete.</i> Utinam quidem dicerent alium alio beatiorem! Iam ruinas videres. <code>Stoici scilicet.</code> Quonam, inquit, modo? <code>Occultum facinus esse potuerit, gaudebit;</code> <i>Et non ex maxima parte de tota iudicabis?</i> <code>Nihil enim hoc differt.</code> </p><pre>Hinc ceteri particulas arripere conati suam quisque videro\r\nvoluit afferre sententiam.\r\n\r\nNos commodius agimus.\r\n</pre><h3>Non dolere, inquam, istud quam vim habeat postea videro;</h3><p>\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n</p><p>Verba tu fingas et ea dicas, quae non sentias? Si mala non sunt, iacet omnis ratio Peripateticorum. Haec quo modo conveniant, non sane intellego. <mark>Tibi hoc incredibile, quod beatissimum.</mark> Cum autem negant ea quicquam ad beatam vitam pertinere, rursus naturam relinquunt.&nbsp;</p></td></tr></tbody></table>',1,'2020-03-01 19:35:31',NULL),
 	(11,'127.0.0.1','Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36','http://localhost:8080/admin/blogs/add-save','Add New Data Coba Artikel at Post','',1,'2020-03-01 19:40:16',NULL),
-	(12,'127.0.0.1','Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36','http://localhost:8080/admin/blogs/add-save','Add New Data Aturan Lalu Lintas at Post','',1,'2020-03-01 19:41:06',NULL);
+	(12,'127.0.0.1','Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36','http://localhost:8080/admin/blogs/add-save','Add New Data Aturan Lalu Lintas at Post','',1,'2020-03-01 19:41:06',NULL),
+	(13,'127.0.0.1','Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36','http://127.0.0.1:8001/admin/login','admin@crudbooster.com login with IP Address 127.0.0.1','',1,'2020-03-21 10:58:01',NULL),
+	(14,'127.0.0.1','Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36','http://127.0.0.1:8001/admin/pelaku/add-save','Add New Data  at Pelaku','',1,'2020-03-21 13:05:59',NULL),
+	(15,'127.0.0.1','Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36','http://127.0.0.1:8001/admin/pelaku/add-save','Add New Data  at Pelaku','',1,'2020-03-21 13:06:07',NULL),
+	(16,'127.0.0.1','Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36','http://127.0.0.1:8001/admin/pelanggaran/add-save','Add New Data  at Pelanggaran','',1,'2020-03-21 13:08:17',NULL),
+	(17,'127.0.0.1','Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36','http://127.0.0.1:8001/admin/uu_lalulintas/add-save','Add New Data  at UU Lalulintas','',1,'2020-03-21 13:10:10',NULL),
+	(18,'127.0.0.1','Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36','http://127.0.0.1:8000/admin/pelanggaran/edit-save/1','Update data  at Pelanggaran','<table class=\"table table-striped\"><thead><tr><th>Key</th><th>Old Value</th><th>New Value</th></thead><tbody></tbody></table>',1,'2020-03-21 13:27:51',NULL),
+	(19,'127.0.0.1','Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36','http://127.0.0.1:8000/admin/pelanggaran/edit-save/1','Update data  at Pelanggaran','<table class=\"table table-striped\"><thead><tr><th>Key</th><th>Old Value</th><th>New Value</th></thead><tbody></tbody></table>',1,'2020-03-21 13:28:09',NULL),
+	(20,'127.0.0.1','Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36','http://127.0.0.1:8000/admin/pelanggaran/edit-save/1','Update data  at Pelanggaran','<table class=\"table table-striped\"><thead><tr><th>Key</th><th>Old Value</th><th>New Value</th></thead><tbody><tr><td>denda_maksimal</td><td></td><td>2000000</td></tr><tr><td>poin_penalti</td><td></td><td>Sedang</td></tr></tbody></table>',1,'2020-03-21 13:49:29',NULL),
+	(21,'127.0.0.1','Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36','http://127.0.0.1:8000/admin/uu_lalulintas/edit-save/1','Update data  at UU Lalulintas','<table class=\"table table-striped\"><thead><tr><th>Key</th><th>Old Value</th><th>New Value</th></thead><tbody></tbody></table>',1,'2020-03-21 13:55:29',NULL);
 
 /*!40000 ALTER TABLE `cms_logs` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -241,7 +250,9 @@ LOCK TABLES `cms_menus` WRITE;
 
 INSERT INTO `cms_menus` (`id`, `name`, `type`, `path`, `color`, `icon`, `parent_id`, `is_active`, `is_dashboard`, `id_cms_privileges`, `sorting`, `created_at`, `updated_at`)
 VALUES
-	(1,'Post','Route','AdminBlogsControllerGetIndex',NULL,'fa fa-newspaper-o',0,1,0,1,1,'2020-03-01 05:16:52',NULL);
+	(2,'Pelaku','Route','AdminPelakuControllerGetIndex',NULL,'fa fa-user',0,1,0,1,2,'2020-03-21 13:01:24',NULL),
+	(3,'Pelanggaran','Route','AdminPelanggaranControllerGetIndex',NULL,'fa fa-road',0,1,0,1,3,'2020-03-21 13:02:32',NULL),
+	(4,'UU Lalulintas','Route','AdminUuLalulintasControllerGetIndex',NULL,'fa fa-book',0,1,0,1,4,'2020-03-21 13:08:55',NULL);
 
 /*!40000 ALTER TABLE `cms_menus` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -264,7 +275,10 @@ LOCK TABLES `cms_menus_privileges` WRITE;
 
 INSERT INTO `cms_menus_privileges` (`id`, `id_cms_menus`, `id_cms_privileges`)
 VALUES
-	(1,1,1);
+	(1,1,1),
+	(2,2,1),
+	(3,3,1),
+	(4,4,1);
 
 /*!40000 ALTER TABLE `cms_menus_privileges` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -306,7 +320,10 @@ VALUES
 	(9,'Statistic Builder','fa fa-dashboard','statistic_builder','cms_statistics','StatisticBuilderController',1,1,'2020-03-01 05:09:28',NULL,NULL),
 	(10,'API Generator','fa fa-cloud-download','api_generator','','ApiCustomController',1,1,'2020-03-01 05:09:28',NULL,NULL),
 	(11,'Log User Access','fa fa-flag-o','logs','cms_logs','LogsController',1,1,'2020-03-01 05:09:28',NULL,NULL),
-	(12,'Post','fa fa-newspaper-o','blogs','blogs','AdminBlogsController',0,0,'2020-03-01 05:16:52',NULL,NULL);
+	(12,'Post','fa fa-newspaper-o','blogs','blogs','AdminBlogsController',0,0,'2020-03-01 05:16:52',NULL,NULL),
+	(13,'Pelaku','fa fa-user','pelaku','pelaku','AdminPelakuController',0,0,'2020-03-21 13:01:23',NULL,NULL),
+	(14,'Pelanggaran','fa fa-road','pelanggaran','pelanggaran','AdminPelanggaranController',0,0,'2020-03-21 13:02:31',NULL,NULL),
+	(15,'UU Lalulintas','fa fa-book','uu_lalulintas','uu_lalulintas','AdminUuLalulintasController',0,0,'2020-03-21 13:08:55',NULL,NULL);
 
 /*!40000 ALTER TABLE `cms_moduls` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -391,7 +408,10 @@ VALUES
 	(9,1,1,1,1,1,1,9,'2020-03-01 05:09:29',NULL),
 	(10,1,1,1,1,1,1,10,'2020-03-01 05:09:29',NULL),
 	(11,1,0,1,0,1,1,11,'2020-03-01 05:09:29',NULL),
-	(12,1,1,1,1,1,1,12,NULL,NULL);
+	(12,1,1,1,1,1,1,12,NULL,NULL),
+	(13,1,1,1,1,1,1,13,NULL,NULL),
+	(14,1,1,1,1,1,1,14,NULL,NULL),
+	(15,1,1,1,1,1,1,15,NULL,NULL);
 
 /*!40000 ALTER TABLE `cms_privileges_roles` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -552,7 +572,14 @@ VALUES
 	(25,'2016_11_15_190410_create_cms_statistics',2),
 	(26,'2016_11_17_102740_create_cms_statistic_components',2),
 	(27,'2017_06_06_164501_add_deleted_at_cms_moduls',2),
-	(28,'2020_03_01_051318_add_blogs',3);
+	(28,'2020_03_01_051318_add_blogs',3),
+	(35,'2020_03_21_125239_create_pelaku_table',4),
+	(36,'2020_03_21_125239_create_pelanggaran_table',4),
+	(37,'2020_03_21_125239_create_pelanggaran_uu_relation_table',4),
+	(38,'2020_03_21_125239_create_uu_lalulintas_relation_table',4),
+	(39,'2020_03_21_125239_create_uu_lalulintas_table',4),
+	(40,'2020_03_21_125249_create_foreign_keys',4),
+	(42,'2020_03_21_133809_add_pelanggaran_columns',5);
 
 /*!40000 ALTER TABLE `migrations` ENABLE KEYS */;
 UNLOCK TABLES;
@@ -570,6 +597,92 @@ CREATE TABLE `password_resets` (
   KEY `password_resets_email_index` (`email`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
+
+
+# Dump of table pelaku
+# ------------------------------------------------------------
+
+DROP TABLE IF EXISTS `pelaku`;
+
+CREATE TABLE `pelaku` (
+  `id` bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+  `pelaku` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+LOCK TABLES `pelaku` WRITE;
+/*!40000 ALTER TABLE `pelaku` DISABLE KEYS */;
+
+INSERT INTO `pelaku` (`id`, `pelaku`, `created_at`, `updated_at`)
+VALUES
+	(1,'Setiap Orang','2020-03-21 13:05:59',NULL),
+	(2,'Pengguna Jalan','2020-03-21 13:06:07',NULL);
+
+/*!40000 ALTER TABLE `pelaku` ENABLE KEYS */;
+UNLOCK TABLES;
+
+
+# Dump of table pelanggaran
+# ------------------------------------------------------------
+
+DROP TABLE IF EXISTS `pelanggaran`;
+
+CREATE TABLE `pelanggaran` (
+  `id` bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+  `label` varchar(255) COLLATE utf8mb4_unicode_ci DEFAULT NULL,
+  `perbuatan` longtext COLLATE utf8mb4_unicode_ci NOT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
+  `id_pelaku` bigint(20) unsigned DEFAULT NULL,
+  `denda_maksimal` decimal(16,2) DEFAULT NULL,
+  `poin_penalti` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  PRIMARY KEY (`id`),
+  KEY `pelanggaran_id_pelaku_foreign` (`id_pelaku`),
+  CONSTRAINT `pelanggaran_id_pelaku_foreign` FOREIGN KEY (`id_pelaku`) REFERENCES `pelaku` (`id`) ON DELETE SET NULL ON UPDATE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+LOCK TABLES `pelanggaran` WRITE;
+/*!40000 ALTER TABLE `pelanggaran` DISABLE KEYS */;
+
+INSERT INTO `pelanggaran` (`id`, `label`, `perbuatan`, `created_at`, `updated_at`, `id_pelaku`, `denda_maksimal`, `poin_penalti`)
+VALUES
+	(1,'test','<p>Lorem ipsum dlor sit amet</p>','2020-03-21 13:08:16','2020-03-21 13:49:29',2,2000000.00,'Sedang');
+
+/*!40000 ALTER TABLE `pelanggaran` ENABLE KEYS */;
+UNLOCK TABLES;
+
+
+# Dump of table pelanggaran_uu_relation
+# ------------------------------------------------------------
+
+DROP TABLE IF EXISTS `pelanggaran_uu_relation`;
+
+CREATE TABLE `pelanggaran_uu_relation` (
+  `id` bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+  `label` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `id_pelanggaran` bigint(20) unsigned NOT NULL,
+  `id_uu_lalulintas` bigint(20) unsigned NOT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
+  PRIMARY KEY (`id`),
+  KEY `pelanggaran_uu_relation_id_pelanggaran_foreign` (`id_pelanggaran`),
+  KEY `pelanggaran_uu_relation_id_uu_lalulintas_foreign` (`id_uu_lalulintas`),
+  CONSTRAINT `pelanggaran_uu_relation_id_pelanggaran_foreign` FOREIGN KEY (`id_pelanggaran`) REFERENCES `pelanggaran` (`id`) ON DELETE CASCADE ON UPDATE CASCADE,
+  CONSTRAINT `pelanggaran_uu_relation_id_uu_lalulintas_foreign` FOREIGN KEY (`id_uu_lalulintas`) REFERENCES `uu_lalulintas` (`id`) ON DELETE CASCADE ON UPDATE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+LOCK TABLES `pelanggaran_uu_relation` WRITE;
+/*!40000 ALTER TABLE `pelanggaran_uu_relation` DISABLE KEYS */;
+
+INSERT INTO `pelanggaran_uu_relation` (`id`, `label`, `id_pelanggaran`, `id_uu_lalulintas`, `created_at`, `updated_at`)
+VALUES
+	(1,'test2',1,1,NULL,NULL),
+	(2,'test Label',1,1,NULL,NULL);
+
+/*!40000 ALTER TABLE `pelanggaran_uu_relation` ENABLE KEYS */;
+UNLOCK TABLES;
 
 
 # Dump of table users
@@ -590,6 +703,61 @@ CREATE TABLE `users` (
   UNIQUE KEY `users_email_unique` (`email`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
+
+
+# Dump of table uu_lalulintas
+# ------------------------------------------------------------
+
+DROP TABLE IF EXISTS `uu_lalulintas`;
+
+CREATE TABLE `uu_lalulintas` (
+  `id` bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+  `pasal` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `isi` longtext COLLATE utf8mb4_unicode_ci NOT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+LOCK TABLES `uu_lalulintas` WRITE;
+/*!40000 ALTER TABLE `uu_lalulintas` DISABLE KEYS */;
+
+INSERT INTO `uu_lalulintas` (`id`, `pasal`, `isi`, `created_at`, `updated_at`)
+VALUES
+	(1,'275 ayat 5','test aja','2020-03-21 13:10:10','2020-03-21 13:55:29');
+
+/*!40000 ALTER TABLE `uu_lalulintas` ENABLE KEYS */;
+UNLOCK TABLES;
+
+
+# Dump of table uu_lalulintas_relation
+# ------------------------------------------------------------
+
+DROP TABLE IF EXISTS `uu_lalulintas_relation`;
+
+CREATE TABLE `uu_lalulintas_relation` (
+  `id` bigint(20) unsigned NOT NULL AUTO_INCREMENT,
+  `label` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `id_pasal` bigint(20) unsigned NOT NULL,
+  `id_pasal_rel` bigint(20) unsigned NOT NULL,
+  `created_at` timestamp NULL DEFAULT NULL,
+  `updated_at` timestamp NULL DEFAULT NULL,
+  PRIMARY KEY (`id`),
+  KEY `uu_lalulintas_relation_id_pasal_foreign` (`id_pasal`),
+  KEY `uu_lalulintas_relation_id_pasal_rel_foreign` (`id_pasal_rel`),
+  CONSTRAINT `uu_lalulintas_relation_id_pasal_foreign` FOREIGN KEY (`id_pasal`) REFERENCES `uu_lalulintas` (`id`) ON DELETE CASCADE ON UPDATE CASCADE,
+  CONSTRAINT `uu_lalulintas_relation_id_pasal_rel_foreign` FOREIGN KEY (`id_pasal_rel`) REFERENCES `uu_lalulintas` (`id`) ON DELETE CASCADE ON UPDATE CASCADE
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+LOCK TABLES `uu_lalulintas_relation` WRITE;
+/*!40000 ALTER TABLE `uu_lalulintas_relation` DISABLE KEYS */;
+
+INSERT INTO `uu_lalulintas_relation` (`id`, `label`, `id_pasal`, `id_pasal_rel`, `created_at`, `updated_at`)
+VALUES
+	(1,'test',1,1,NULL,NULL);
+
+/*!40000 ALTER TABLE `uu_lalulintas_relation` ENABLE KEYS */;
+UNLOCK TABLES;
 
 
 

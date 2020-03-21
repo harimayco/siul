@@ -35,7 +35,7 @@ class ApiPostController extends \crocodicstudio\crudbooster\controllers\ApiContr
         }
 
         header('Content-Type: application/json');
-        echo $query->simplePaginate(10)->toJson();
+        echo $query->paginate(10)->toJson();
         die();
     }
 
