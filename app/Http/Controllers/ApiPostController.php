@@ -2,18 +2,20 @@
 
 namespace App\Http\Controllers;
 
+
 use Session;
 use Request;
 use DB;
 use CRUDBooster;
-
+use App\Models\Pelanggaran;
+use App\Http\Resources\Pelanggaran as ResourcesPelanggaran;
 
 class ApiPostController extends \crocodicstudio\crudbooster\controllers\ApiController
 {
 
     function __construct()
     {
-        $this->table       = "blogs";
+        $this->table       = "pelanggaran";
         $this->permalink   = "post";
         $this->method_type = "get";
     }
@@ -29,13 +31,18 @@ class ApiPostController extends \crocodicstudio\crudbooster\controllers\ApiContr
     {
         //This method is to customize the sql query
         $request = request();
-
+        $test =  new Pelanggaran;
         if (!empty($request->search)) {
-            $query->where('title', 'like', '%' . $request->search . '%')->orWhere('content', 'like', '%' . $request->search . '%');
+            $test->with('pelaku')->where('label', 'like', '%' . $request->search . '%')->orWhere('perbuatan', 'like', '%' . $request->search . '%');
         }
 
+        //echo $query->get();
+
+        //die();
+
         header('Content-Type: application/json');
-        echo $query->paginate(10)->toJson();
+        $res = new \App\Http\Resources\Pelanggaran($test->get());
+        echo json_encode($res->toJson());
         die();
     }
 

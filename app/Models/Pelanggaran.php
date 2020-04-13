@@ -4,7 +4,7 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
-class Pelanggaran extends Model 
+class Pelanggaran extends Model
 {
 
     protected $table = 'pelanggaran';
@@ -15,4 +15,8 @@ class Pelanggaran extends Model
         return $this->hasMany('App\Models\PelanggaranUURel', 'id_pelanggaran');
     }
 
+    public function pelaku()
+    {
+        return $this->belongsTo('App\Models\Pelaku', 'id_pelaku');
+    }
 }
