@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\UULaluLintas;
 use Session;
 use Request;
 use DB;
@@ -43,11 +44,12 @@ class AdminUuLalulintasController extends \crocodicstudio\crudbooster\controller
         $this->form[] = ['label' => 'Pasal', 'name' => 'pasal', 'type' => 'text', 'validation' => 'required|min:1|max:255', 'width' => 'col-sm-10'];
         $this->form[] = ['label' => 'Isi', 'name' => 'isi', 'type' => 'wysiwyg', 'validation' => 'required|string|min:5|max:5000', 'width' => 'col-sm-10'];
 
-        $columns = array();
-        $columns[] = ['label' => 'Label', 'name' => 'label', 'type' => 'text', 'required' => true];
-        $columns[] = ['label' => 'UU LaluLintas Link', 'name' => 'id_pasal_rel', 'type' => 'select', 'datatable' => 'uu_lalulintas,pasal', 'required' => false];
-        $this->form[] = ['label' => 'Undang Undang Yang Bersangkutan', 'name' => 'undang_undang', 'type' => 'child', 'columns' => $columns, 'table' => 'uu_lalulintas_relation', 'foreign_key' => 'id_pasal'];
-
+        if (request()->get('undangundangyangbersangkutan-label') || request()->isMethod('get')) {
+            $columns = array();
+            $columns[] = ['label' => 'Label', 'name' => 'label', 'type' => 'text', 'required' => true];
+            $columns[] = ['label' => 'UU LaluLintas Link', 'name' => 'id_pasal_rel', 'type' => 'select', 'datatable' => 'uu_lalulintas,pasal', 'required' => false];
+            $this->form[] = ['label' => 'Undang Undang Yang Bersangkutan', 'name' => 'undang_undang', 'type' => 'child', 'columns' => $columns, 'table' => 'uu_lalulintas_relation', 'foreign_key' => 'id_pasal'];
+        }
         # END FORM DO NOT REMOVE THIS LINE
 
         # OLD START FORM
@@ -298,8 +300,9 @@ class AdminUuLalulintasController extends \crocodicstudio\crudbooster\controller
 	    */
     public function hook_before_edit(&$postdata, $id)
     {
-        //Your code here
-
+        if (empty(request()->get('undangundangyangbersangkutan-label')) && request()->isMethod('post')) {
+            UULaluLintas::find($id)->rel()->delete();
+        }
     }
 
     /*
